@@ -11,3 +11,7 @@ def walk
 end 
   
 end 
+
+amy = Person.new 
+amy.talk
+ 
